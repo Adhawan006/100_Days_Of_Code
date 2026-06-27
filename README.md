@@ -20,4 +20,5 @@ Welcome to my #100DaysOfCode challenge!
 
 ## Platforms
 - LeetCode
+- GeeksforGeeks
 - Practice Questions
