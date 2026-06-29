@@ -16,7 +16,8 @@ Welcome to my #100DaysOfCode challenge!
 | Day | Topics |
 |-----|---------|
 | Day 1 | Arrays, Array Insertion, Two Sum (HashMap) |
-| Day 2 | ... |
+| Day 2 | Arrays, Array Deletion, Buy and Sell Stock  |
+| Day 3 | Arrays, Linear Search and Comparisons count, Missing Number  |
 
 ## Platforms
 - LeetCode
