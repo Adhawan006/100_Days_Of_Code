@@ -21,6 +21,7 @@ Welcome to my #100DaysOfCode challenge!
 | Day 4 | Arrays, Array Reversal, Remove Element (2-pointer) |
 | Day 5 | Arrays, Array Arrival Logs, Merge Sorted Array (Pointer) |
 | Day 6 | Arrays, Move Zeroes, Remove Duplicates |
+| Day 7 | Recursion, nth fibonacci number, Fibonacci sequence |
 
 ## Platforms
 - LeetCode
