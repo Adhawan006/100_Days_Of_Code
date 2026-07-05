@@ -23,6 +23,7 @@ Welcome to my #100DaysOfCode challenge!
 | Day 6 | Arrays, Move Zeroes, Remove Duplicates |
 | Day 7 | Recursion, nth fibonacci number, Fibonacci sequence |
 | Day 8 | Recursion, Power without inbuilt function, Check if Power of 2 |
+| Day 9 | Strings, Mirror code, Reverse a String |
 
 ## Platforms
 - LeetCode
