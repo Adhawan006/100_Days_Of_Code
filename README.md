@@ -24,6 +24,7 @@ Welcome to my #100DaysOfCode challenge!
 | Day 7 | Recursion, nth fibonacci number, Fibonacci sequence |
 | Day 8 | Recursion, Power without inbuilt function, Check if Power of 2 |
 | Day 9 | Strings, Mirror code, Reverse a String |
+| Day 10 | Strings/Arrays, String Palindrome, Intersection_Arrays(HashMaps) |
 
 ## Platforms
 - LeetCode
