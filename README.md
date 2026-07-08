@@ -25,6 +25,8 @@ Welcome to my #100DaysOfCode challenge!
 | Day 8 | Recursion, Power without inbuilt function, Check if Power of 2 |
 | Day 9 | Strings, Mirror code, Reverse a String |
 | Day 10 | Strings/Arrays, String Palindrome, Intersection_Arrays(HashMaps) |
+| Day 11 | Matrix, Matrix Addition, Matrix Transpose |
+| Day 12 | Matrix, Symmetric Matrix, ToePlitz Matrix |
 
 ## Platforms
 - LeetCode
