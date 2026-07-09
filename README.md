@@ -27,6 +27,7 @@ Welcome to my #100DaysOfCode challenge!
 | Day 10 | Strings/Arrays, String Palindrome, Intersection_Arrays(HashMaps) |
 | Day 11 | Matrix, Matrix Addition, Matrix Transpose |
 | Day 12 | Matrix, Symmetric Matrix, ToePlitz Matrix |
+| Day 13 | Matrix, Traverse clockwise, Spiral Matrix |
 
 ## Platforms
 - LeetCode
