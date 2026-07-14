@@ -2,6 +2,8 @@
 
 Welcome to my #100DaysOfCode challenge!
 
+Questions- https://100-days-of-dsa.vercel.app/
+
 ## Goal
 - Solve DSA problems daily.
 - Improve problem-solving skills.
@@ -27,7 +29,12 @@ Welcome to my #100DaysOfCode challenge!
 | Day 10 | Strings/Arrays, String Palindrome, Intersection_Arrays(HashMaps) |
 | Day 11 | Matrix, Matrix Addition, Matrix Transpose |
 | Day 12 | Matrix, Symmetric Matrix, ToePlitz Matrix |
-| Day 13 | Matrix, Traverse clockwise, Spiral Matrix |
+| Day 13 | Matrix, Identity Matrix, Rotate Matrix |
+| Day 14 | Matrix, Traverse clockwise, Spiral Matrix |
+| Day 15| Matrix, SetZero diagonal elements, Sum of Digits |
+| Day 16 | Arrays, Frequency Count, Rotate Array |
+| Day 17 | Arrays/Basic DP, Max Min element, Maximum SubArray |
+| Day 18 | Arrays, Rotate Array by k, Product of array elements except self |
 
 ## Platforms
 - LeetCode
