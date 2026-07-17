@@ -35,6 +35,9 @@ Questions- https://100-days-of-dsa.vercel.app/
 | Day 16 | Arrays, Frequency Count, Rotate Array |
 | Day 17 | Arrays/Basic DP, Max Min element, Maximum SubArray |
 | Day 18 | Arrays, Rotate Array by k, Product of array elements except self |
+| Day 19 | Arrays, Closest to 0 pair, Reverse Kadane (Max subarray) |
+| Day 20 | Arrays, SubArray zero, Three Sum |
+| Day 21 | Linked List, Traverse and Insert nodes, Middle Node |
 
 ## Platforms
 - LeetCode
