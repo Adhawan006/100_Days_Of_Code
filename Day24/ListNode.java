@@ -13,7 +13,6 @@ package hundred_days_of_code.Day24;
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
 
-        // Remove matching nodes from the beginning
         while (head != null && head.val == val) {
             head = head.next;
         }
