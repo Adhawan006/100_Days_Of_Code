@@ -15,8 +15,7 @@ class KthLargest {
         }
     }
 
-    // k = 3
-    // {4, 5, 8, 2}
+
     
     public int add(int val) {
         minHeap.offer(val);
