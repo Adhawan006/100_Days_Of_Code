@@ -1,3 +1,20 @@
+# 💯 100 Days of Code - Java DSA
+
+Welcome to my #100DaysOfCode challenge!
+
+Questions- https://100-days-of-dsa.vercel.app/
+
+## Goal
+
+- Solve DSA problems daily.
+- Improve problem-solving skills.
+- Prepare for software engineering interviews.
+- Stay consistent for 100 days.
+
+## Language
+
+- Java
+
 ## Progress
 
 | Day | Topics |
