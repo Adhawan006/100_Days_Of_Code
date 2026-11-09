@@ -25,6 +25,8 @@ public List<List<Integer>> fourSum(int[] nums, int target) {
             while(s <= e){
                 if(nums[x] + nums[y] + nums[s] + nums[e] == target){
                     list.add(Arrays.asList(x, y, s, e));
+                    s++;
+                    e--;
                 }
             }
             }
