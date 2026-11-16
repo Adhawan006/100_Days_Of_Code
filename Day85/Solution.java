@@ -19,14 +19,14 @@ class Solution {
 
             int need = sum - k;
             if(map.containsKey(need)){
-                c++;
+                c = c + map.get(need);
             }
-                map.put(sum, x);
+                map.put(sum, map.getOrDefault(map, null) + 1);
             
-
         }
+        return c;
     }
-
+}
 
 
 
